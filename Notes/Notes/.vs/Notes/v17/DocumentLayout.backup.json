@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|c:\\users\\ankit\\onedrive\\desktop\\notes\\notes\\notes.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|solutionrelative:notes.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|c:\\users\\ankit\\onedrive\\desktop\\notes\\notes\\notes.api\\model\\domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|solutionrelative:notes.api\\model\\domain\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|c:\\users\\ankit\\onedrive\\desktop\\notes\\notes\\notes.api\\data\\notedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|solutionrelative:notes.api\\data\\notedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|c:\\users\\ankit\\onedrive\\desktop\\notes\\notes\\notes.api\\model\\dto\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|solutionrelative:notes.api\\model\\dto\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|c:\\users\\ankit\\onedrive\\desktop\\notes\\notes\\notes.api\\model\\dto\\displaynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|solutionrelative:notes.api\\model\\dto\\displaynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|c:\\users\\ankit\\onedrive\\desktop\\notes\\notes\\notes.api\\model\\dto\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|solutionrelative:notes.api\\model\\dto\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|c:\\users\\ankit\\onedrive\\desktop\\notes\\notes\\notes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|solutionrelative:notes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|c:\\users\\ankit\\onedrive\\desktop\\notes\\notes\\notes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B561122-CDA4-4F3F-BD7D-DC67A72290F5}|Notes.api\\Notes.api.csproj|solutionrelative:notes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Model\\DTO\\UpdateNoteDto.cs",
+              "RelativeDocumentMoniker": "Notes.api\\Model\\DTO\\UpdateNoteDto.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Model\\DTO\\UpdateNoteDto.cs",
+              "RelativeToolTip": "Notes.api\\Model\\DTO\\UpdateNoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:11:30.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "displayNote.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Model\\DTO\\displayNote.cs",
+              "RelativeDocumentMoniker": "Notes.api\\Model\\DTO\\displayNote.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Model\\DTO\\displayNote.cs",
+              "RelativeToolTip": "Notes.api\\Model\\DTO\\displayNote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:00:35.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Model\\DTO\\NoteDTO.cs",
+              "RelativeDocumentMoniker": "Notes.api\\Model\\DTO\\NoteDTO.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Model\\DTO\\NoteDTO.cs",
+              "RelativeToolTip": "Notes.api\\Model\\DTO\\NoteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:45:25.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Notes.api\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Notes.api\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAArwEoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:43:31.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Program.cs",
+              "RelativeDocumentMoniker": "Notes.api\\Program.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Program.cs",
+              "RelativeToolTip": "Notes.api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:37:49.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Data\\NoteDbContext.cs",
+              "RelativeDocumentMoniker": "Notes.api\\Data\\NoteDbContext.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Data\\NoteDbContext.cs",
+              "RelativeToolTip": "Notes.api\\Data\\NoteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:36:10.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Model\\Domain\\Note.cs",
+              "RelativeDocumentMoniker": "Notes.api\\Model\\Domain\\Note.cs",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\Model\\Domain\\Note.cs",
+              "RelativeToolTip": "Notes.api\\Model\\Domain\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:34:56.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\appsettings.json",
+              "RelativeDocumentMoniker": "Notes.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\ankit\\OneDrive\\Desktop\\Notes\\Notes\\Notes.api\\appsettings.json",
+              "RelativeToolTip": "Notes.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T21:32:26.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
